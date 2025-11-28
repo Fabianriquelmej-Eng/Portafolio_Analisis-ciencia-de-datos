@@ -11,7 +11,7 @@ El objetivo central es transformar datos transaccionales en una Matriz de Contro
 El flujo de trabajo se diseñó para auditar la salud del inventario mediante tres fases de validación:
 
 1.  **Levantamiento y analisis de KPIs (RFM):** Construcción de indicadores de Recencia, Frecuencia y Valor Monetario para medir el desempeño real de cada ítem.
-2.  **Normalización Robusta:** Aplicación de `RobustScaler` y transformaciones logarítmicas para mitigar el sesgo de valores atípicos y garantizar la integridad del modelo.
+2.  **Normalización Robusta:** Aplicación de RobustScaler y transformaciones logarítmicas para mitigar el sesgo de valores atípicos y garantizar la integridad del modelo.
 3.  **Detección de Patrones (K-Means):** Segmentación matemática (k=4) validada por el Método del Codo, asegurando la granularidad óptima para la gestión operativa.
 
 ---
