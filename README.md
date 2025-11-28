@@ -45,6 +45,6 @@ Se implementarán modelos de **Árboles de Decisión** para extraer reglas de ne
 ---
 
 
-**Por: Fabian Riquelme Jorquera** 
+**Por: Fabian Riquelme Jorquera,** 
 **Ingeniero Industrial // Analista de datos**
 
