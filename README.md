@@ -24,12 +24,12 @@ El modelo reveló 4 perfiles de comportamiento diferenciados, cada uno requirien
 
 ### Estrategias de Control Asignadas
 
-| Perfil Identificado | Diagnóstico Estadístico | Protocolo de Control |
+| Perfil Identificado | Diagnóstico Estadístico | Sugerencia de Decisión Estratégica |
 | :--- | :--- | :--- |
-| **Cluster 3: Productos Estrella** | **Alta Rotación (σ=0.17) / Alto Valor.** Patrón de demanda agresivo y predecible. | **Prioridad Crítica:** Monitoreo diario de disponibilidad y pronóstico de demanda de alta precisión ("Zero-Stock-Out"). |
-| **Cluster 1: Sostenedores** | **Rotación Constante.** Comportamiento estable que sostiene la base operativa. | **Automatización:** Configuración de reposición automática (ROP) para reducir carga administrativa. |
-| **Cluster 2: Estándar** | **Comportamiento Promedio.** Métricas centradas en la media, desempeño moderado. | **Eficiencia:** Revisión periódica de lotes de compra para optimizar costos logísticos. |
-| **Cluster 0: Pasivos** | **Alta Recencia / Baja Rotación.** Indicadores de estancamiento y obsolescencia. | **Saneamiento:** Ejecución de estrategias de salida (liquidación/castigo) para liberar Capital de Trabajo. |
+| **Cluster 3: Productos Estrella** | **Alta Rotación (σ=0.17) / Alto Valor.** Patrón de demanda agresivo y predecible. | **Prioridad Crítica:** Implementar monitoreo diario de disponibilidad y pronóstico de demanda de alta precisión ("Zero-Stock-Out"). |
+| **Cluster 1: Sostenedores** | **Rotación Constante.** Comportamiento estable que sostiene la base operativa. | **Automatización:** Configurar puntos de reorden automáticos (ROP) para reducir carga administrativa y asegurar flujo continuo. |
+| **Cluster 2: Estándar** | **Comportamiento Promedio.** Métricas centradas en la media, desempeño moderado. | **Eficiencia:** Revisar periódicamente lotes de compra para optimizar costos logísticos y de almacenamiento. |
+| **Cluster 0: Pasivos** | **Alta Recencia / Baja Rotación.** Indicadores de estancamiento y obsolescencia. | **Saneamiento:** Evaluar estrategias de salida (liquidación, venta cruzada o castigo contable) para liberar Capital de Trabajo. |
 
 ---
 
