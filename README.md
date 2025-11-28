@@ -19,7 +19,8 @@ El flujo de trabajo se diseñó para auditar la salud del inventario mediante tr
 ## Resultados: Matriz de Decisión Táctica
 El modelo reveló 4 perfiles de comportamiento diferenciados, cada uno requiriendo un protocolo de control específico.
 
-**(Aquí puedes insertar una imagen de tu Heatmap o Boxplots si lo deseas)**
+<img width="764" height="503" alt="image" src="https://github.com/user-attachments/assets/2af31161-e1ea-4fc1-a628-736d75974c2c" />
+
 
 ### Estrategias de Control Asignadas
 
