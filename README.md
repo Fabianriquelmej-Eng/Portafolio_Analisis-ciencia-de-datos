@@ -1,4 +1,4 @@
-# Detección de Patrones mediante Machine Learning y Validación Estadística con KPIs Estratégicos
+# Detección de patrones mediante Machine Learning y validación estadística con KPIs estratégicos
 
 ## Resumen
 En entornos de alta incertidumbre logística, la gestión de inventarios basada en promedios simples oculta ineficiencias críticas. Este proyecto implementa un sistema de control avanzado que combina Algoritmos de Agrupamiento con una rigurosa Validación Estadística para optimizar la toma de decisiones.
