@@ -37,10 +37,10 @@ El modelo reveló 4 perfiles de comportamiento diferenciados, cada uno requirien
 Para robustecer la toma de decisiones, se han definido dos líneas de investigación futura que profundizarán la granularidad del control:
 
 ### 1. Análisis de Correlación Intra-Cluster
-El siguiente paso es auditar cómo interactúan las métricas **dentro de cada segmento específico** para detectar si los impulsores de valor en el grupo "Estrella" son los mismos que en el grupo "Estándar".
+El siguiente paso es auditar cómo interactúan las métricas dentro de cada segmento específico para detectar si los impulsores de valor en el grupo "Estrella" son los mismos que en el grupo "Estándar".
 
 ### 2. Sub-segmentación Supervisada (Decision Trees)
-Se implementarán modelos de **Árboles de Decisión** para extraer reglas de negocio explícitas, generando un **Scorecard de Reglas** (Ej: Si X > 5 y Y < 2) aplicable por el equipo operativo sin necesidad de correr el modelo completo.
+Se implementarán modelos de Arboles de Decisión para extraer reglas de negocio explícitas, generando un umbrales (Ej: Si X > 5 y Y < 2) aplicable por el equipo operativo sin necesidad de correr el modelo completo.
 
 ---
 
