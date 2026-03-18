@@ -40,7 +40,7 @@ Para robustecer la toma de decisiones, se han definido dos líneas de investigac
 El siguiente paso es auditar cómo interactúan las métricas dentro de cada segmento específico para detectar si los impulsores de valor en el grupo "Estrella" son los mismos que en el grupo "Estándar".
 
 ### 2. Sub-segmentación Supervisada (Decision Trees)
-Se implementarán modelos de Arboles de Decisión para extraer reglas de negocio explícitas, generando un umbrales (Ej: Si X > 5 y Y < 2) aplicable por el equipo operativo sin necesidad de correr el modelo completo.
+Se implementarán modelos de Arboles de Decisión para extraer reglas de negocio explícitas, generando umbrales (Ej: Si X > 5 y Y < 2) aplicable por el equipo operativo sin necesidad de correr el modelo completo.
 
 ---
 
