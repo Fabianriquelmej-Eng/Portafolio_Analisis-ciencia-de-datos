@@ -46,5 +46,5 @@ Se implementarán modelos de Arboles de Decisión para extraer reglas de negocio
 
 
 **Por: Fabian Riquelme Jorquera,** 
-**Ingeniero Industrial // Analista de datos**
+**Ingeniero Industrial**
 
